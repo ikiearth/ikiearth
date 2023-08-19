@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikiearth
-- 👀 I’m interested in renewable energy and IoT
+- 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning Pertamina University
 - 📫 How to reach me muhammadsholikhuddin1@gmail.com or 101321020@student.universitaspertamina.ac.id
 
